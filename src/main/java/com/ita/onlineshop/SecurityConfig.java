@@ -36,7 +36,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
     protected void configure(AuthenticationManagerBuilder auth) throws Exception {
         // hardcode for check Add Product tag, it only shows when the user is admin
         auth
-                .inMemoryAuthentication().withUser("stefanlaioffer@gmail.com").password("123").authorities("ROLE_ADMIN");
+                .inMemoryAuthentication().withUser("yzhao001@gmail.com").password("123").authorities("ROLE_ADMIN");
 
         auth
                 .jdbcAuthentication()
