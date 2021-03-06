@@ -1,0 +1,15 @@
+com/ita/onlineshop/service/CustomerService.class
+com/ita/onlineshop/entity/Product.class
+com/ita/onlineshop/entity/User.class
+com/ita/onlineshop/Application.class
+com/ita/onlineshop/controller/RegistrationController.class
+com/ita/onlineshop/entity/Authorities.class
+com/ita/onlineshop/ApplicationConfig.class
+com/ita/onlineshop/dao/CustomerDao.class
+com/ita/onlineshop/entity/ShippingAddress.class
+com/ita/onlineshop/entity/Customer.class
+com/ita/onlineshop/controller/HomePageController.class
+com/ita/onlineshop/entity/Cart.class
+com/ita/onlineshop/entity/CartItem.class
+com/ita/onlineshop/SecurityConfig.class
+com/ita/onlineshop/entity/BillingAddress.class
