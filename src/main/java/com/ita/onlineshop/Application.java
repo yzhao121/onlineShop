@@ -8,4 +8,3 @@ public class Application {
         ApplicationContext applicationContext = new AnnotationConfigApplicationContext(ApplicationConfig.class);
     }
 }
-
